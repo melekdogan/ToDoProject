@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToDoProject
 {
-    internal enum Size
-    {
-        XS = 0,
-        S,
-        M,
-        L,
-        XL
-    }
+    
     internal enum Line
     {
         TODO = 1,
